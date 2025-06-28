@@ -1,0 +1,3 @@
+# Ignore twcs related files and folders
+twcs/
+*.twcs

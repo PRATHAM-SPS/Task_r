@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Verify NBA System Outputs",
+			"type": "shell",
+			"command": "wc -l outputs/*.csv && echo '\n=== Sample JSON Structure ===' && head -n 20 outputs/sample_nba_outputs.json && echo '\n=== CSV Headers ===' && head -n 1 outputs/nba_results_1000_customers.csv",
+			"group": "verification"
+		}
+	]
+}

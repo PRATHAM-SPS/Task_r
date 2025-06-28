@@ -1,0 +1,17 @@
+{
+  "total_conversations_analyzed": 10000,
+  "resolved_conversations_excluded": 1338,
+  "open_conversations_processed": 8662,
+  "nba_recommendations_generated": 1000,
+  "channel_distribution": {
+    "twitter_dm_reply": 752,
+    "scheduling_phone_call": 248
+  },
+  "predicted_resolution_outcomes": {
+    "resolved": 345,
+    "pending_customer_reply": 655,
+    "escalated": 0
+  },
+  "predicted_resolution_rate": 34.5,
+  "processing_timestamp": "2025-06-28T14:43:02.825683"
+}

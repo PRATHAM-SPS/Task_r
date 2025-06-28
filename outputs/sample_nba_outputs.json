@@ -1,0 +1,182 @@
+[
+  {
+    "customer_id": "0",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare is the worst customer service",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "1",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare I did.",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "2",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare I have sent several private messages and no one is responding as usual",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "3",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare and how do you propose we do that",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "4",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @115714 @sprintcare how can I get in touch with someone that matters at Spring Corporate",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "5",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare I've sent several private messages!!! and no one responds!",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "6",
+    "channel": "scheduling_phone_call",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I want to ensure your question gets immediate attention. We're scheduling a call so we can discuss this thoroughly. You'll receive a confirmation email with the call details shortly.",
+    "reasoning": "Phone call recommended due to high urgency and low complexity. Message emphasizes immediate action due to high urgency.",
+    "chat_log": "Customer: @sprintcare I sent it twice now to apparently noone!",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "8",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare I am not surprised because nothing works when it comes to sprint!",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "9",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare complete ineptness!",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "11",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare Since I signed up with you....Since day 1",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "12",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @sprintcare You gonna magically change your connectivity for me and my whole family ? \ud83e\udd25 \ud83d\udcaf",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "13",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've reviewed your billing concern and sent a detailed explanation to your email. If you have questions after reviewing, please reply.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: Save big our best-selling phones, &amp; get FREE Upgrades to any phone after 12 consecutive on-time ...",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "14",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: Don't miss the chance to win a 2018 Jeep\u00ae Cherokee Overland! Follow and tweet #JustForYouSweepstakes...",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "15",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: Get $350 off iPhone X when you pre-order yours with Sprint. #WorksForMe https://t.co/xFaqC6Mt5I",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "16",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @117731 Loyalty does not go unnoticed on #TeamYellow. \ud83d\ude0a",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "17",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @177 Have you Pre-Ordered yours yet? \ud83d\udc40",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "18",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "Thanks for reaching out about your login issue. I've sent detailed troubleshooting steps to your email. Please check and let me know if you need further assistance.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @115714 whenever I contact customer support, they tell me I have shortcode enabled on my account, bu...",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "19",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "Thanks for your question! Here's a quick answer. For more detailed information, I can send additional resources if needed.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: actually that's a broken link you sent me and incorrect information https://t.co/V4yfrHR8VI",
+    "issue_status": "resolved"
+  },
+  {
+    "customer_id": "20",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "I've sent a detailed response to your inquiry via email. Please review and feel free to ask any follow-up questions.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @Ask_Spectrum That is INCORRECT information I have the form in front of me that is faxed over-maybe ...",
+    "issue_status": "pending_customer_reply"
+  },
+  {
+    "customer_id": "21",
+    "channel": "twitter_dm_reply",
+    "send_time": "2025-06-28T14:57:42Z",
+    "message": "Thanks for reaching out about your login issue. I've sent detailed troubleshooting steps to your email. Please check and let me know if you need further assistance.",
+    "reasoning": "Twitter DM for quick, accessible communication.",
+    "chat_log": "Customer: @Ask_Spectrum The correct way to do it is via an OCS Account Takeover and email Consent Form it does...",
+    "issue_status": "pending_customer_reply"
+  }
+]
